@@ -62,4 +62,4 @@ Based on the analysis, Kenya Airways can take the following steps to improve pun
 
 ## 🌐Project Website
 
-[Click here to view the website](https://sites.google.com/view/kenya-airways-delay-insights/delay-causes)
+[Click here to view the website](https://sites.google.com/view/kenya-airways-delay-insights/home)
